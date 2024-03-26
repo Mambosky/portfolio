@@ -52,13 +52,13 @@ Treść kursu:
 
 ☑️ <a href="https://youtube.com/playlist?list=PL2zsrr3O56spOLrXjhOKTx7l-g9UhEe64&si=PopFMF6ggqLFNDrz" target="_blank">Kurs GIT-a - Dariusz Luber</a>
 
-    Treść kursu:
+Treść kursu:
 
-    - Wprowadzenie
-    - Lokalne repozytorium, commit-y
-    - Gałęzie 
-    - Scalanie gałęzi - Mergowanie 
-    - Rozwiązywanie konfliktów 
-    - Wprowadzenie do repozytoriów zdalnych 
-    - GITHUB - Repozytoria zdalne i Pull requesty 
-    - GITLAB - Repozytoria zdalne i Pull requesty 
+- Wprowadzenie
+- Lokalne repozytorium, commit-y
+- Gałęzie 
+- Scalanie gałęzi - Mergowanie 
+- Rozwiązywanie konfliktów 
+- Wprowadzenie do repozytoriów zdalnych 
+- GITHUB - Repozytoria zdalne i Pull requesty 
+- GITLAB - Repozytoria zdalne i Pull requesty 
