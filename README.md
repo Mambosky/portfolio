@@ -45,4 +45,20 @@ Treść kursu:
 - Grupowanie danych: GROUP BY oraz funkcje agregujące
 
 ### October 2023
+
 ☑️ <a href="https://qa-m-lp-pl.goit.global/" target="_blank">Free QA marathon with practise - GoIT</a>
+
+### January 2024
+
+☑️ <a href="https://youtube.com/playlist?list=PL2zsrr3O56spOLrXjhOKTx7l-g9UhEe64&si=PopFMF6ggqLFNDrz" target="_blank">Kurs GIT-a - Dariusz Luber</a>
+
+    Treść kursu:
+
+    - Wprowadzenie
+    - Lokalne repozytorium, commit-y
+    - Gałęzie 
+    - Scalanie gałęzi - Mergowanie 
+    - Rozwiązywanie konfliktów 
+    - Wprowadzenie do repozytoriów zdalnych 
+    - GITHUB - Repozytoria zdalne i Pull requesty 
+    - GITLAB - Repozytoria zdalne i Pull requesty 
