@@ -21,8 +21,9 @@
 
 ## <a name="courses">COURSES</a>
 
-### May 2023
+### May 2022
 
+☑️ <a href="https://www.udemy.com/course/python-tutorial-complete/" target="_blank">Python for Data Science - Great Learning - Udemy</a>
 
 ### April 2023
 
