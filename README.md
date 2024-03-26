@@ -29,7 +29,20 @@
 
 ☑️ <a href="https://www.udemy.com/course/draft/1351602/learn/">Essentials of Data Science - uDemy</a>
 
-### March 2023
+### February 2023
+
+☑️ <a href="https://miroslawzelent.pl/kurs-mysql/">MySQL Database - Pasja Informatyki</a>
+
+Treść kursu:
+
+- Przegląd technologii webowych
+- Instalacja pakietu XAMPP
+- Bazy danych. Pierwsze zapytania wyszukujące SQL
+- Złożone zapytania SELECT. Księgarnia online
+- Zapytania INSERT i UPDATE
+- Modele danych. Relacja. Iloczyn kartezjański
+- Usuwanie danych: DELETE, TRUNCATE, DROP
+- Grupowanie danych: GROUP BY oraz funkcje agregujące
 
 ### October 2023
 ☑️ <a href="https://qa-m-lp-pl.goit.global/" target="_blank">Free QA marathon with practise - GoIT</a>
